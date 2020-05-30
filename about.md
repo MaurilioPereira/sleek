@@ -6,7 +6,6 @@ permalink: /about/
 
 <div align=“center”>
 <div markdown=“1”>
-  # Some markdown syntax here and/or use images:
   ![](FB_20141108_01_09_33_Saved_Picture.jpg)
 </div>
 </div>
