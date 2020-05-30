@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello there!
 
-      <center><img src="FB_20141108_01_09_33_Saved_Picture.jpg" ...></center>
+      <center><img src="FB_20141108_01_09_33_Saved_Picture.jpg"></center>
 
 Hi!
   
