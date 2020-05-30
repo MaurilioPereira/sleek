@@ -8,13 +8,12 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 #baseurl: "/sleek" # the subpath of your site, e.g. /blog
-baseurl: "/blog" # the subpath of your site, e.g. /blog
 #url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://mauriliopereira.github.io/"
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Maurilio Pereira
   links:
     - https://twitter.com/Maurili63905578
     - https://www.facebook.com/Zmaurilio
