@@ -25,8 +25,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Sobre', link: '/about'}
+  - {name: 'Posts', link: '/posts'}
+  - {name: 'Contacto', link: '/contact'}
 
 tagline: >
   Educação e pesquisas
