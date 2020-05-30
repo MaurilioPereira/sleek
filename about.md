@@ -6,7 +6,6 @@ permalink: /about/
 
 <p align="center">
   <img src="FB_20141108_01_09_33_Saved_Picture.jpg" width="350" title="hover text">
-  <img src="FB_20141108_01_09_33_Saved_Picture.jpg" width="350" alt="accessibility text">
 </p>
 
 
