@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-![Alt text]("enter repository image URL here"):
+![Alt text]("enter repository image URL here")
   :height: 100px
   :width: 200 px
   :scale: 50 %
