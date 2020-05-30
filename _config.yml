@@ -32,11 +32,12 @@ tagline: >
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+#email: your-email@domain.com # email for form submission
+email: pereira.maurilio@outlook.com
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+twitter_username: Maurili63905578 # replace with your_twitter_username or comment to remove link from footer
+github_username:  MaurilioPereira # replace with your_github_username or comment to remove link from footer
+instagram_username: maurili0.pereira # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   #shortname: janczizikow # to enable comments replace with your_disqus_shortname
