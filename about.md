@@ -8,10 +8,8 @@ permalink: /about/
   <img width="150" height="243" src="/maurilio.png">
 </p>
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Olá, meu nome é Maurilio Pereira.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+Sou marido, professor, pesquisador e estudante.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Tenho mestrado Acadêmico em Energias Renováveis, graduação em Automação Industrial e atualmente estou cursando engenharia elétrica. Já trabalhei com sistemas Linux aplicado na fiscalização de trânsito e detecção de falhas em sistemas de microgeração fotovoltaica através do uso de IoT e Machine Learning. Para mais detalhes visite o meu [Currículo Lattes] http://lattes.cnpq.br/4913714238139007
